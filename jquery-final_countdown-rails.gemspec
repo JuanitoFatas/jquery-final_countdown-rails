@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ['katehuang0320@gmail.com']
   s.summary     = 'jQuery.countdown (The Final Countdown) for Rails'
   s.description = 'This gem provides jQuery.countdown driver for your Rails application.'
-  s.homepage    = 'https://github.com/jquery-final_countdown-rails'
+  s.homepage    = 'https://github.com/juanitofatas/jquery-final_countdown-rails'
   s.license     = 'MIT'
 
   s.add_dependency 'railties', '>= 3.0', '< 5.0'
